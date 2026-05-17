@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Cinema-Ticket-Reservation-System Topic: Cinema Ticket Reservation System (C++)
 
 A console-based Cinema Ticket Reservation System written in C++. This system allows users to register, log in, view movies, book tickets with seat selection, cancel tickets, and search or sort movies. Admins can add movies and view all booked tickets.
@@ -117,3 +118,41 @@ Exit
 Moayed
 
 Cinema Ticket Reservation System A simple console-based Cinema Ticket Reservation System written in C++. The system allows users to create an account, log in, view movies, select seats, book tickets, cancel tickets, search & sort movies, and lets admins manage movie data. C++ Coursework Project
+=======
+Banking Management System in Java
+
+A role-based banking management system implemented in Java. This project simulates real-world banking operations and supports multiple user roles with distinct functionalities.
+
+Features:
+
+Account Holder: View account details, deposit/withdraw funds, transfer money, manage personal Tabung (savings goals), apply for loans, and track transaction history.
+
+Bank Officer: Register new accounts and view account details.
+
+Loan Officer: Approve or reject loans and disburse approved amounts.
+
+Finance Officer: Set dividend rates and distribute dividends to account holders.
+
+System Admin: Generate daily reports and reset user passwords.
+
+Core Components:
+
+User hierarchy with AccountHolder, BankOfficer, LoanOfficer, FinanceOfficer, and SystemAdmin.
+
+BankAccount for managing balances and transactions.
+
+Transaction for logging financial activities.
+
+Tabung for goal-based savings management.
+
+Loan for loan applications and processing.
+
+Technologies:
+
+Java SE
+
+Object-Oriented Programming (OOP) concepts: inheritance, abstraction, encapsulation
+
+Usage:
+Run Main.java to start the console-based menu system and interact with the banking application according to your role.
+>>>>>>> 4b95454cbc0c14febc623683ff102d6a5b05b511
